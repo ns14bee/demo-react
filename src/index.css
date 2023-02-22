@@ -3,3 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.form-body * {
+  margin: 10px 0;
+}
